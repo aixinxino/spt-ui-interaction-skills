@@ -1,0 +1,4 @@
+interface:
+  display_name: "SPT 项目交互设计"
+  short_description: "检查项目实际需求，从27份资料中按需选择交互，保留已有组件与业务逻辑"
+  default_prompt: "使用 $spt-project-interaction-design 检查当前项目，只选择对本次页面任务有帮助的交互，简要说明理由，再按我的要求实施或提供方案；不适合就不添加。"
